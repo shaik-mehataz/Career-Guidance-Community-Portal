@@ -186,10 +186,6 @@ curl -X POST http://localhost:5000/api/auth/login \
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🆘 Support
 
 For support and questions:
