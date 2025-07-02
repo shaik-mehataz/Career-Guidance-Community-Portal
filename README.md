@@ -178,28 +178,3 @@ curl -X POST http://localhost:5000/api/auth/login \
 1. Build the frontend: `npm run build`
 2. Deploy to platforms like Netlify, Vercel, or AWS S3
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 🆘 Support
-
-For support and questions:
-- Check the API documentation
-- Review the MongoDB connection setup
-- Ensure all environment variables are set correctly
-- Verify both frontend and backend servers are running
-
-## 🔄 Development Workflow
-
-1. Start MongoDB service
-2. Start backend server (`npm run dev` in backend folder)
-3. Start frontend server (`npm run dev` in frontend folder)
-4. Access application at http://localhost:5173
-5. API available at http://localhost:5000/api
-
-The application now has full MongoDB integration with proper API connectivity between frontend and backend!
